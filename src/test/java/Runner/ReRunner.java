@@ -14,7 +14,9 @@ import org.junit.runner.RunWith;
         // monochrome = true,
 //test3
 
-//Here are some changes
+//Here are some changesl
+        //yes
+        //no
 )
 public class ReRunner {
 }
